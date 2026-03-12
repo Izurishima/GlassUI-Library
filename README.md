@@ -5,7 +5,7 @@ Welcome to the official repository for **Glass UI**.
 
 ---
 
-## Add this on the top of the script
+## Add this to the top of the script
 ```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Izurishima/GlassUI-Library/refs/heads/main/Glass%20UI%20Library"))()
 ```
