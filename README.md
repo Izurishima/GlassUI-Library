@@ -10,4 +10,4 @@ To run the script, copy the code below and paste it into your favorite executor 
 
 ```lua
 -- [[ Glass UI Official Loader ]] --
-loadstring(game:HttpGet("[https://pastefy.app/fdr2zeMo/raw](https://pastefy.app/fdr2zeMo/raw)"))()
+loadstring(game:HttpGet("https://pastefy.app/fdr2zeMo/raw"))()
