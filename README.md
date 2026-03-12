@@ -1,6 +1,7 @@
 # 🌊 Glass UI Script
 
-Welcome to the official repository for **Glass UI**. This script is designed to be lightweight, fast, and easy to use.
+Welcome to the official repository for **Glass UI**.
+(If you encounter an error please open a ticket in "Support" channel
 
 ---
 
